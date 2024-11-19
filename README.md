@@ -3,6 +3,8 @@ A powerful anti-burn allowing much higher CFG scales for A1111
 
 This extension is a backport of the Extraltodeus extension from ComfyUI
 
+If you find bugs or incompatibility with any extensions - open an issue, I'll try to solve it
+
 # Examples with a CFG at 20.5
 ### Base image
 ![1](https://github.com/user-attachments/assets/27f246cd-c793-40ce-9a7d-1a4fbc1d3c46)
